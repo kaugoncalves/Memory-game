@@ -1,0 +1,19 @@
+C:\Users\Windows\source\repos\Jogo da memoria\bin\Debug\Jogo da memoria.exe.config
+C:\Users\Windows\source\repos\Jogo da memoria\bin\Debug\Jogo da memoria.exe
+C:\Users\Windows\source\repos\Jogo da memoria\bin\Debug\Jogo da memoria.pdb
+C:\Users\Windows\source\repos\Jogo da memoria\obj\Debug\Jogo da memoria.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\Jogo da memoria\obj\Debug\Jogo_da_memoria.Form1.resources
+C:\Users\Windows\source\repos\Jogo da memoria\obj\Debug\Jogo_da_memoria.Properties.Resources.resources
+C:\Users\Windows\source\repos\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\Jogo da memoria\obj\Debug\Jogo da memoria.exe
+C:\Users\Windows\source\repos\Jogo da memoria\obj\Debug\Jogo da memoria.pdb
+C:\Users\Kauan\OneDrive\Cotuca\TP\Jogo da memoria\bin\Debug\Jogo da memoria.exe.config
+C:\Users\Kauan\OneDrive\Cotuca\TP\Jogo da memoria\bin\Debug\Jogo da memoria.exe
+C:\Users\Kauan\OneDrive\Cotuca\TP\Jogo da memoria\bin\Debug\Jogo da memoria.pdb
+C:\Users\Kauan\OneDrive\Cotuca\TP\Jogo da memoria\obj\Debug\Jogo da memoria.csprojAssemblyReference.cache
+C:\Users\Kauan\OneDrive\Cotuca\TP\Jogo da memoria\obj\Debug\Jogo_da_memoria.Form1.resources
+C:\Users\Kauan\OneDrive\Cotuca\TP\Jogo da memoria\obj\Debug\Jogo_da_memoria.Properties.Resources.resources
+C:\Users\Kauan\OneDrive\Cotuca\TP\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.GenerateResource.cache
+C:\Users\Kauan\OneDrive\Cotuca\TP\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.CoreCompileInputs.cache
+C:\Users\Kauan\OneDrive\Cotuca\TP\Jogo da memoria\obj\Debug\Jogo da memoria.exe
+C:\Users\Kauan\OneDrive\Cotuca\TP\Jogo da memoria\obj\Debug\Jogo da memoria.pdb
