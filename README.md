@@ -1,2 +1,2 @@
-# Jogo-da-memoria
- jogo da memoria feito inteiramente em c# 
+# Memory-game 
+memory game made entirely in C #
